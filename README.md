@@ -10,4 +10,4 @@ Tugas praktikum Minggu 4 - State & Events.
 - **Reset Logic:** Clearing all states with one tap.
 
 ## 🔗 Demo
-[Cek di Expo Snack]((https://snack.expo.dev/@stephanizz/600600))
+[Cek di Expo Snack](https://snack.expo.dev/@stephanizz/600600)
